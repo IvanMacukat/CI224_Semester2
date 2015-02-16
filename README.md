@@ -14,4 +14,4 @@ To create a simple world in OpenGL and generate objects that could obstruct the 
 - 25% - Implementation of game idea - you may wish
 to provide original sketches of your idea as evidence
 for this.
-- 50% - Working game level and ability to move around the world freely
+- 50% - Working game level and ability to move around in the world freely
