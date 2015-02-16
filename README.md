@@ -1,6 +1,6 @@
 # CI224_Semester2 
 
-To create a simple world in OpenGL and generate objects that could obstruct the players vision and movement. The world could be interactive and be controlled with mouse and keyboard.
+To create a simple world in OpenGL and generate objects that could obstruct the players vision and movement. The world could be interactive and be controlled with mouse and keyboard. The aim of the project would be to create similar game to minecraft, that allows the player to roam freely and jump on objects and hit them to create a path.
 
 # Proposed Technology 
 
